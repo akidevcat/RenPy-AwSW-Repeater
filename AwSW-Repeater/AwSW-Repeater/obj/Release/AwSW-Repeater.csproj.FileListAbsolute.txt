@@ -1,0 +1,8 @@
+C:\Users\wolfn\source\repos\AwSW-Repeater\AwSW-Repeater\bin\Release\AwSW-Repeater.exe
+C:\Users\wolfn\source\repos\AwSW-Repeater\AwSW-Repeater\obj\Release\AwSW_Repeater.AwSWR.resources
+C:\Users\wolfn\source\repos\AwSW-Repeater\AwSW-Repeater\obj\Release\AwSW_Repeater.Properties.Resources.resources
+C:\Users\wolfn\source\repos\AwSW-Repeater\AwSW-Repeater\obj\Release\AwSW_Repeater.SettingsForm.resources
+C:\Users\wolfn\source\repos\AwSW-Repeater\AwSW-Repeater\obj\Release\AwSW-Repeater.csproj.GenerateResource.cache
+C:\Users\wolfn\source\repos\AwSW-Repeater\AwSW-Repeater\obj\Release\AwSW-Repeater.csproj.CoreCompileInputs.cache
+C:\Users\wolfn\source\repos\AwSW-Repeater\AwSW-Repeater\obj\Release\AwSW-Repeater.exe
+C:\Users\wolfn\source\repos\AwSW-Repeater\AwSW-Repeater\obj\Release\AwSW-Repeater.csprojAssemblyReference.cache
